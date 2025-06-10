@@ -1,0 +1,5 @@
+﻿  Talent Hub.cpp
+C:\Users\user\Desktop\Yoobee\SD103\Assessment 2\Code\Talent Hub\Talent Hub.cpp(177,36): error C2065: 'Microsoft': undeclared identifier
+C:\Users\user\Desktop\Yoobee\SD103\Assessment 2\Code\Talent Hub\Talent Hub.cpp(177,46): error C2146: syntax error: missing ';' before identifier 'certification'
+C:\Users\user\Desktop\Yoobee\SD103\Assessment 2\Code\Talent Hub\Talent Hub.cpp(177,46): error C2065: 'certification': undeclared identifier
+C:\Users\user\Desktop\Yoobee\SD103\Assessment 2\Code\Talent Hub\Talent Hub.cpp(178,13): error C2146: syntax error: missing ';' before identifier 'cout'
